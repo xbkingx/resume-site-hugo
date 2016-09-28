@@ -14,7 +14,7 @@ Kennedy PR, Kirby MT, Moore MM, King B, Mallory A. "Computer Control Using Human
 
 Kennedy PR, Andreasen D, Ehirim P, King B, Kirby MT, Mao H, Moore MM. "Using Human Extra Cortical Field Potentials to Control a Switch." Journal of Neural Engineering 1 (2004): 72-77.
 
-(Additional manuscript currently in final review.)
+(Additional first author manuscript currently in final review.)
 
 &nbsp;
 
@@ -38,9 +38,9 @@ King B, Truccolo W, Friehs GM, Stein J, Donoghue JP, Hochberg LR. Motor cortex l
 
 King B, Feldman JM, Hochberg LR, Donoghue JP. Verbal instructions to watch, imagine, or attempt movement differentially engage neurons in the motor cortex of humans with tetraplegia. Program No. 899.4/HHH45. 2010 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2010. Online.
 
-Feldman JM, King B, Truccolo W, Hochberg, LR, Donoghue JP. (2011). Decoding neural representations of action from motor cortex ensembles during action observation in humans with tetraplegia. In 2011 Neuroscience Meeting Planner (p. 142.14). Washington, DC: Society for Neuroscience.
+Feldman JM, King B, Truccolo W, Hochberg LR, Donoghue, JP. Decoding neural representations of action from motor cortex ensembles during action observation in humans with tetraplegia. 2011 Neuroscience Meeting Planner (p. 142.14). Washington, DC: Society for Neuroscience, 2011. Online.
 
-Hochberg LR, Bacher D, Barefoot L, Berhanu E, Black MJ, Cash SS, King B, ..., Donoghue JP. (2011). Use of the BrainGate Neural Interface System for more than five years by a woman with tetraplegia. 2011 Neuroscience Meeting Planner. Washington, DC: Society for Neuroscience.
+Hochberg LR, Bacher D, Barefoot L, Berhanu E, Black MJ, Cash SS, King B, ..., Donoghue JP. Use of the BrainGate Neural Interface System for more than five years by a woman with tetraplegia. 2011 Neuroscience Meeting Planner. Washington, DC: Society for Neuroscience. 2011. Online.
 
 &nbsp;
 
