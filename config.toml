@@ -157,7 +157,7 @@ theme = "academic"
   [[params.social]]
     icon = "download"
     icon_pack = "fa"
-    link = "http://bit.ly/bking_resume_pdf"
+    link = "http://bit.ly/BKing_Resume"
 	
   # [[params.social]]
   #  icon = "github"

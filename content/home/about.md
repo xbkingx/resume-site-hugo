@@ -12,4 +12,4 @@ I recently successfully defended my PhD thesis in Neuroscience at Brown Universi
 
 I'm currently seeking employment by a public or private organization fueled by massive and complex ideas at the intersection of perception, interaction, and technology. Topics of interest include, but are not limited to: virtual and augmented reality, multimodal and alternative user interfaces, assistive technologies and devices, user experience, experience design, and neural interfaces. 
 
-A pdf version of my resume can be downloaded [here](http://bit.ly/bking_resume_pdf).
+PDF, TXT, and DOCX versions of my resume can be downloaded [here](http://bit.ly/BKing_Resume).

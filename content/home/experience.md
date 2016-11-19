@@ -9,7 +9,7 @@ weight = 1
 
 ### Neuroscience Doctoral Candidate
 #### Brown University <br> [BrainGate Project][1]
-##### *Providence, RI  <br> Aug. 2006 - July 2016*
+##### *Providence, RI  <br> Aug. 2005 - July 2016*
 
 * Developed and implemented neurotechnologies to aid individuals with severe movement disorders, such as cervical spinal cord injury and amyotrophic lateral sclerosis (ALS).
 * Investigated brain-computer interface safety and usability factors essential for translation of BCI technology from a controlled lab environment to the outside world.
@@ -24,7 +24,7 @@ weight = 1
 
 ### Pharmaceutical Representative
 #### Abbott Laboratories
-##### *Abbott Park, IL <br> Feb. 2002 - Apr. 2006*
+##### *Abbott Park, IL <br> Feb. 2002 - Apr. 2005*
 
 * Liaised between medical professionals and Abbott research division, providing medical information related to company products.
 * Increased sales to 125% over quota annually.

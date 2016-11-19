@@ -10,7 +10,7 @@ weight = 3
 ### Programming languages:  
 
 * Matlab, LabView, C, Java, HTML, Pascal, BASIC.  
-Familiar with: Python, R, XML, C#, C++, SQL, Lisp, CSS, Lua, shells scripting.
+Familiar with: Python, R, XML, C#, C++, SQL, Lisp, CSS, Lua, shell scripting.
 
 ### Operating systems: 
 

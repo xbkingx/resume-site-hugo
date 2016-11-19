@@ -9,7 +9,7 @@ weight = 2
 
 ### Ph.D. in Neuroscience 
 #### Brown University <br> [BrainGate project][1] / Lab of John Donoghue
-##### *Providence, RI  <br> Aug. 2006 - July 2016*
+##### *Providence, RI  <br> Aug. 2005 - July 2016*
 
 * Data analysis, statistical inference, and machine learning with large data sets.
 * Programming and analysis in Matlab, Python, Stata, and R.
