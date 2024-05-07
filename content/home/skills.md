@@ -1,34 +1,33 @@
 +++
-date = "2016-04-20T00:00:00"
+date = "2019-03-23T00:00:00"
 draft = false
 title = "skills"
 subtitle = ""
-section_id = 105
-weight = 3
+section_id = 107
+weight = 7
 +++
 
-### Programming languages:  
+### Programming languages:
 
-* Matlab, LabView, C, Java, HTML, Pascal, BASIC.  
-Familiar with: Python, R, XML, C#, C++, SQL, Lisp, CSS, Lua, shell scripting.
+* Matlab, LabView, C, Java, HTML, Pascal, BASIC. <br>
+*Familiar with:* Python, R, XML, C++, SQL, Lisp, CSS, Lua, shell scripting, regex.
 
-### Operating systems: 
+### Operating systems:
 
-* Windows, Mac, Linux.
-	
-### Neural data acquisition: 
+* Windows, MacOS, Linux, iOS, Android.
+
+### Neural data acquisition systems:
 
 * Blackrock Cerebus, Plexon, Datawave, Neuralynx.
-	
-### Interface technology: 
 
-* Neural data (spike, LFP, MUA, EEG, other field potentials), eye tracking, motion capture, assistive keyboards and devices, cameras, A/V capture, human interface devices, video game controllers.
+### Interface technology:
 
-### Scientific and electrical equipment: 
+* Neural data (spike, LFP, MUA, EEG, other field potentials), EMG, EOG, eye tracking, motion capture, assistive keyboards and devices, audio and video capture and mixing/sequencing, human interface devices, video game controllers, HTC Vive, Samsung GearVR.
+
+### Scientific and electrical equipment:
 
 * Oscilloscopes, amplifiers, DACs and A/D converters, signal generators, data recorders.
 
-### Other: 
+### Other:
 
-* Consumer, prosumer, and enthusiast electronics and computer components.
-
+* Consumer, prosumer, and enthusiast electronics and computer components. Office software (Microsoft, Libre), image/photo/video software (Adobe, GIMP), SmithMicro Poser (3D character animation, texturing, rendering), media transcoding.

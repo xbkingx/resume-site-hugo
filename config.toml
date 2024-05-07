@@ -1,6 +1,6 @@
 baseurl = "https://xbkingx.github.io/"
 title = "Brandon King, PhD"
-copyright = "&copy; 2016 Brandon King"
+copyright = "&copy; 2017-2020 Brandon King"
 languageCode = "en-us"
 theme = "academic"
 
@@ -17,8 +17,8 @@ theme = "academic"
   organization = "  "
   avatar = "portrait.jpg"
   email = "xbkingx@gmail.com"
-  address = "1335 Christina Lane, Northbrook, IL, USA."
-  phone = "(401) 440-7437"
+  address = "1335 Christina Lane, Northbrook, IL 60062"
+  phone = "SUBTRACT 1 from each number: (512) 551-8548"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -40,29 +40,29 @@ theme = "academic"
   #   Section will only be displayed if `content/home/about.md` exists.
   [params.about]
     interests = [
-      "Brain-computer interfaces (BCIs)",
-      "Cognitive aspects of perception, movement, and interaction",
-      "Alternative and assistive interfaces",
-	  "Translational scientific initiatives",
-	  "Consumer technology"
+      "Brain-computer interfaces, neuroprosthetics, and biomedical devices",
+      "Virtual/augmented/mixed reality interaction paradigms and challenges ",
+      "Statistical analysis, machine learning, and deep learning",
+      "Cryptocurrencies and blockchain technology"
     ]
-    str_interests = "Interests"
+    str_interests = "Research Interests"
     str_education = "Education"
 
     [[params.about.education]]
       course = "PhD in Neuroscience"
       institution = "Brown University"
-      year = 2016
+      year = 2017
 
     [[params.about.education]]
       course = "BSc in Computer Science"
       institution = "Emory University"
       year = 2001
 
-	[[params.about.education]]
-	  course = "BSc in Neuroscience and Behavioral Biology"
+	  [[params.about.education]]
+	    course = "BSc in Neuroscience"
       institution = "Emory University"
       year = 2001
+  [params.curr_proj]
 
 
   # Selected Publications section.
@@ -87,7 +87,16 @@ theme = "academic"
   #   Section will only be displayed if there are posts in `content/workexp/`.
   [params.workexp]
     count = 20
-    title = "Experience"
+    title = "Core Projects and Experience"
+    subtitle = ""
+    str_all = "Show all"
+    str_read_more = "Read more"
+
+  # Ancillary Experience section.
+  #   Section will only be displayed if there are posts in `content/ancexp/`.
+  [params.ancexp]
+    count = 20
+    title = "Ancillary Experience"
     subtitle = ""
     str_all = "Show all"
     str_read_more = "Read more"
@@ -106,9 +115,14 @@ theme = "academic"
 
   # Simple publications section.
   [params.simp_pubs]
-   title = "Publications and Presentations"
-   subtitle = "Peer reviewed publications, conference presentations, posters, and invited speaker events"
-	
+   title = "Publications and Posters"
+   subtitle = "Peer reviewed publications and conference posters"
+
+  # Public Speaking Experience section
+  [params.pub_speak]
+   title = "Public Speaking"
+   subtitle = "Presentations and invited speaker events"
+
   # Contact section.
   [params.contact]
     enable = true
@@ -143,7 +157,7 @@ theme = "academic"
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/xbkingx"
-	
+
   # [[params.social]]
   #   icon = "twitter"
   #   icon_pack = "fa"
@@ -158,11 +172,11 @@ theme = "academic"
     icon = "download"
     icon_pack = "fa"
     link = "http://bit.ly/BKing_Resume"
-	
+
   # [[params.social]]
   #  icon = "github"
   #  icon_pack = "fa"
-  #  link = "//github.com/xbkingx" 
+  #  link = "//github.com/xbkingx"
 
 
 # Navigation Links
@@ -173,42 +187,33 @@ theme = "academic"
   url = "#top"
   weight = 1
 
-# [[menu.main]]
-#  name = "Experience"
-#  url = "#workexp"
-#  weight = 2
-  
 [[menu.main]]
   name = "Experience"
-  url = "#experience"
+  url = "#core"
   weight = 2
-
-# [[menu.main]]
-#  name = "Education"
-#  url = "#eduexp"
-#  weight = 3
 
 [[menu.main]]
   name = "Education"
   url = "#education"
   weight = 3
-  
+
 [[menu.main]]
   name = "Skills"
   url = "#skills"
   weight = 4
-  
-# [[menu.main]]
-#  name = "Publications"
-#  url = "#publications"
-#  weight = 5
-  
+
+
 [[menu.main]]
   name = "Publications"
-  url = "#simp_pubs"
+  url = "#publications"
   weight = 5
+
+[[menu.main]]
+  name = "Speaking"
+  url = "#pub_speak"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
